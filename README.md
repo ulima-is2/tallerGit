@@ -6,3 +6,10 @@ Just for practicing
 
 # Billy Grados
 - Docente innovador
+
+# Joan Pinto
+- Alumno
+
+# Billy Grados
+- Docente innovador
+
