@@ -25,7 +25,7 @@ Just for practicing
 
 # Aaron Agüero
 - Estudiante 
-=======
+
 
 
 # Joan Pinto
