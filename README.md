@@ -2,6 +2,17 @@
 Just for practicing
 
 
+# Daniel Olivera
+- Estudiante innovador
+
+# Billy Grados
+- Docente innovador
+
+
+# Kevyn Franco
+
+
+
 # Diana Garces
 - Estudiante de Ingienería de Sistemas
 - Trabajadora en el área de soporte del Británico
@@ -10,8 +21,10 @@ Just for practicing
 - Docente innovador
 
 
+
 #Eva Alvarez
 - Estudiante aplicada
+
 
 # Joan Pinto
 - Alumno
