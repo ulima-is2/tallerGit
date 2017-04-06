@@ -1,7 +1,7 @@
 # tallerGit
 Just for practicing
 
-#Gonzalo Reyes
+# Gonzalo Reyes
 -Ayy Lmao
 
 # Daniel Olivera
@@ -13,8 +13,6 @@ Just for practicing
 
 # Kevyn Franco
 
-
-
 # Diana Garces
 - Estudiante de Ingienería de Sistemas
 - Trabajadora en el área de soporte del Británico
@@ -22,19 +20,15 @@ Just for practicing
 # Billy Grados
 - Docente innovador
 
+# Edgard Vargas
+- lol
 
-
-#Eva Alvarez
+# Eva Alvarez
 - Estudiante aplicada
 
 
 # Joan Pinto
 - Alumno
 
-
-# Billy Grados
-- Docente innovador
-
 # Giovanni Pattarone
 - Estudiante gamer
-
