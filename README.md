@@ -2,9 +2,13 @@
 Just for practicing
 
 
+
 # Kevyn Franco
-- Alumno
+
+
+# Diana Garces
+- Estudiante de Ingienería de Sistemas
+- Trabajadora en el área de soporte del Británico
 
 # Billy Grados
 - Docente innovador
-
