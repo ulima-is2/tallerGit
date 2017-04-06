@@ -35,3 +35,6 @@ Just for practicing
 # Billy Grados
 - Docente innovador
 
+# Giovanni Pattarone
+- Estudiante gamer
+
