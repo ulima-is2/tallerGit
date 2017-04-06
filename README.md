@@ -1,6 +1,8 @@
 # tallerGit
 Just for practicing
 
+#Gonzalo Reyes
+-Ayy Lmao
 
 
 # Daniel Olivera
@@ -21,6 +23,10 @@ Just for practicing
 # Billy Grados
 - Docente innovador
 
+<<<<<<< HEAD
+# Edgard Vargas
+- lol
+=======
 
 
 
@@ -40,3 +46,4 @@ Just for practicing
 # Billy Grados
 - Docente innovador
 
+>>>>>>> 94da8ec9c7508dde01bd37d3b3504630bf3a134b
