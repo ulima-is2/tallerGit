@@ -4,6 +4,7 @@ Just for practicing
 # Gonzalo Reyes
 -Ayy Lmao
 
+
 # Daniel Olivera
 - Estudiante innovador
 
@@ -26,6 +27,8 @@ Just for practicing
 # Eva Alvarez
 - Estudiante aplicada
 
+# Aaron Agüero
+- Estudiante 
 
 # Joan Pinto
 - Alumno
