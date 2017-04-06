@@ -2,8 +2,13 @@
 Just for practicing
 
 
+
 # Aaron Agüero
-- Estudiante innovador
+- Estudiante 
+
+# Joan Pinto
+- Alumno
+
 
 # Billy Grados
 - Docente innovador
